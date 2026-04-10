@@ -26,18 +26,29 @@ export async function getMarkdownData(filePath: string) {
   };
 }
 
-export function getAllContentIds(directory: string) {
-  const dirPath = path.join(contentDirectory, directory);
-  if (!fs.existsSync(dirPath)) return [];
-  
-  const fileNames = fs.readdirSync(dirPath);
-  return fileNames.map((fileName) => {
-    return {
-      params: {
-        id: fileName.replace(/\.md$/, ''),
-      },
-    };
-  });
+export function getAllContentSlugs() {
+  const slugs: { slug: string[] }[] = [];
+
+  function readDir(dir: string, currentSlug: string[] = []) {
+    const items = fs.readdirSync(dir, { withFileTypes: true });
+    
+    // Add the directory itself (unless it's the root)
+    if (currentSlug.length > 0) {
+      slugs.push({ slug: currentSlug });
+    }
+
+    for (const item of items) {
+      if (item.isDirectory()) {
+        readDir(path.join(dir, item.name), [...currentSlug, item.name]);
+      } else if (item.name.endsWith('.md')) {
+        const name = item.name.replace(/\.md$/, '');
+        slugs.push({ slug: [...currentSlug, name] });
+      }
+    }
+  }
+
+  readDir(contentDirectory);
+  return slugs;
 }
 
 export function getDirectoryContent(directory: string) {

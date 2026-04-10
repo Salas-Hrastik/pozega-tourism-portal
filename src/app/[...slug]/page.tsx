@@ -1,6 +1,10 @@
-import { getMarkdownData, getDirectoryContent } from "@/lib/markdown";
+import { getMarkdownData, getDirectoryContent, getAllContentSlugs } from "@/lib/markdown";
 import Link from "next/link";
 import { ChevronLeft, FileText, Folder } from "lucide-react";
+
+export async function generateStaticParams() {
+  return getAllContentSlugs();
+}
 
 export default async function DynamicPage({ params }: { params: { slug: string[] } }) {
   const { slug } = params;
@@ -26,6 +30,7 @@ export default async function DynamicPage({ params }: { params: { slug: string[]
       </main>
     );
   } catch (e) {
+    console.error(`Greška pri učitavanju Markdowna za ${pathString}, pokušavam učitati direktorij...`);
     // If not a file, it might be a directory
     const items = getDirectoryContent(pathString);
     
