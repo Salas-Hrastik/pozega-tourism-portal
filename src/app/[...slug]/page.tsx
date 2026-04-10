@@ -1,5 +1,5 @@
 import { getMarkdownData, getDirectoryContent, getAllContentSlugs } from "@/lib/markdown";
-import Link from "next/link";
+import CustomLink from "@/components/CustomLink";
 import { ChevronLeft, FileText, Folder } from "lucide-react";
 
 export async function generateStaticParams() {
@@ -17,9 +17,9 @@ export default async function DynamicPage(props: { params: Promise<{ slug: strin
     
     return (
       <main className="container" style={{ padding: "4rem 0" }}>
-        <Link href="/" style={{ display: "flex", alignItems: "center", gap: "0.5rem", marginBottom: "2rem", color: "var(--primary)" }}>
+        <CustomLink href="/" title="Početna" style={{ display: "flex", alignItems: "center", gap: "0.5rem", marginBottom: "2rem", color: "var(--primary)" }}>
           <ChevronLeft size={16} /> Povratak
-        </Link>
+        </CustomLink>
         <article className="glass-panel" style={{ padding: "3rem" }}>
           <div className="markdown-content" dangerouslySetInnerHTML={{ __html: data.contentHtml }} />
           {data.source && (
@@ -40,7 +40,7 @@ export default async function DynamicPage(props: { params: Promise<{ slug: strin
         <main className="container" style={{ padding: "4rem 0", textAlign: "center" }}>
           <h1>404 - Stranica nije pronađena</h1>
           <p>Žao nam je, traženi sadržaj ne postoji u bazi.</p>
-          <Link href="/" className="btn-primary">Povratak na naslovnicu</Link>
+          <CustomLink href="/" title="Početna" className="btn-primary">Povratak na naslovnicu</CustomLink>
         </main>
       );
     }
@@ -50,9 +50,10 @@ export default async function DynamicPage(props: { params: Promise<{ slug: strin
         <h1 style={{ textTransform: "capitalize" }}>{slug[slug.length - 1].replace(/-/g, " ")}</h1>
         <div className="grid">
           {items.map((item: any) => (
-            <Link 
+            <CustomLink 
               key={item.name} 
               href={`/${pathString}/${item.name}`} 
+              title={item.title || item.name}
               className="glass-panel glass-card"
               style={{ display: "flex", alignItems: "center", gap: "1rem" }}
             >
@@ -61,7 +62,7 @@ export default async function DynamicPage(props: { params: Promise<{ slug: strin
                 <h4 style={{ margin: 0 }}>{item.title || item.name}</h4>
                 {item.date && <p style={{ fontSize: "0.8rem", margin: 0 }}>{item.date}</p>}
               </div>
-            </Link>
+            </CustomLink>
           ))}
         </div>
       </main>
