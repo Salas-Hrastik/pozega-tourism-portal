@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-const contentDirectory = path.join(process.cwd(), 'content');
+const contentDirectory = path.join(process.cwd(), 'src', 'content');
 
 export async function getMarkdownData(filePath: string) {
   const fullPath = path.join(contentDirectory, `${filePath}.md`);

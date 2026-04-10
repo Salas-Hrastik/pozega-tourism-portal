@@ -29,10 +29,19 @@ KONTEKST:
 export async function POST(req: Request) {
   try {
     const { messages } = await req.json();
+    if (!messages || messages.length === 0) {
+      return NextResponse.json({ error: "Nema poruka." }, { status: 400 });
+    }
+
     const lastMessage = messages[messages.length - 1].content;
 
     // Retrieve context from Markdown files
-    const context = searchContext(lastMessage);
+    let context = "";
+    try {
+      context = searchContext(lastMessage);
+    } catch (e) {
+      console.error("Greška pri pretraživanju konteksta:", e);
+    }
 
     const response = await openai.chat.completions.create({
       model: "gpt-4o",
@@ -47,7 +56,10 @@ export async function POST(req: Request) {
 
     return NextResponse.json({ message: aiMessage });
   } catch (error: any) {
-    console.error("Chat error:", error);
-    return NextResponse.json({ error: "Pogreška u komunikaciji s Barunom." }, { status: 500 });
+    console.error("Chat error details:", error);
+    return NextResponse.json({ 
+      error: "Pogreška u komunikaciji s Barunom.",
+      details: error.message 
+    }, { status: 500 });
   }
 }

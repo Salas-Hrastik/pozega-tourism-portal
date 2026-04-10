@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-const contentDirectory = path.join(process.cwd(), 'content');
+const contentDirectory = path.join(process.cwd(), 'src', 'content');
 
 export function getAllContent() {
   const allFiles: { path: string; content: string; title: string }[] = [];
