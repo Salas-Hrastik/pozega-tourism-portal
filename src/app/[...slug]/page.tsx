@@ -6,13 +6,14 @@ export async function generateStaticParams() {
   return getAllContentSlugs();
 }
 
-export default async function DynamicPage({ params }: { params: { slug: string[] } }) {
+export default async function DynamicPage(props: { params: Promise<{ slug: string[] }> }) {
+  const params = await props.params;
   const { slug } = params;
-  const pathString = slug.join("/");
+  const pathString = decodeURIComponent(slug.join("/"));
   
   try {
     // Try to load as a Markdown file
-    const data = await getMarkdownData(pathString);
+    const data = await getMarkdownData(pathString) as any;
     
     return (
       <main className="container" style={{ padding: "4rem 0" }}>

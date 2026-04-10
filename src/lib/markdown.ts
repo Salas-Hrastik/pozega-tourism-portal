@@ -19,10 +19,18 @@ export async function getMarkdownData(filePath: string) {
     .process(matterResult.content);
   const contentHtml = processedContent.toString();
 
+  // Convert Date objects to strings for React
+  const sanitizedData = { ...matterResult.data };
+  for (const key in sanitizedData) {
+    if (sanitizedData[key] instanceof Date) {
+      sanitizedData[key] = sanitizedData[key].toLocaleDateString('hr-HR');
+    }
+  }
+
   return {
     id: filePath,
     contentHtml,
-    ...(matterResult.data as any),
+    ...sanitizedData,
   };
 }
 
@@ -67,11 +75,20 @@ export function getDirectoryContent(directory: string) {
     const fullPath = path.join(dirPath, item.name);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const { data } = matter(fileContents);
+    
+    // Convert Date objects to strings for React
+    const sanitizedData = { ...data };
+    for (const key in sanitizedData) {
+      if (sanitizedData[key] instanceof Date) {
+        sanitizedData[key] = sanitizedData[key].toLocaleDateString('hr-HR');
+      }
+    }
+
     return {
       name: item.name.replace(/\.md$/, ''),
       type: 'file',
-      title: data.title || item.name.replace(/\.md$/, ''),
-      ...data,
+      title: sanitizedData.title || item.name.replace(/\.md$/, ''),
+      ...sanitizedData,
     };
   });
 }
