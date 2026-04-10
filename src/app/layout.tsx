@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Link from "next/link";
 import { Map, Utensils, Calendar, Info } from "lucide-react";
+import ChatWidget from "@/components/ChatWidget";
 
 export const metadata: Metadata = {
   title: "Požega - Zlatna Dolina | Službeni Vodič",
@@ -36,6 +37,7 @@ export default function RootLayout({
           </div>
         </nav>
         {children}
+        <ChatWidget />
         <footer style={{ padding: '4rem 0', textAlign: 'center', color: '#64748b' }}>
           <div className="container">
             <p>&copy; 2026 Turistička zajednica Grada Požege. Sva prava pridržana.</p>
