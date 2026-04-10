@@ -1,8 +1,14 @@
 ---
 title: Vino i pivo u Požegi
-source: https://pozega-tz.hr/jedi-pij/vino-pivo/
-scraped_at: 2026-04-10
-tags: [gastro, vino, pivo, pivovara, vinarija, pozega]
+source: 'https://pozega-tz.hr/jedi-pij/vino-pivo/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - vino
+  - pivo
+  - pivovara
+  - vinarija
+  - pozega
 ---
 
 # Vino i pivo u Požegi

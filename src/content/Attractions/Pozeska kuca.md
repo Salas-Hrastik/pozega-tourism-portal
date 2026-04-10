@@ -1,8 +1,12 @@
 ---
 title: Požeška kuća
-source: https://pozega-tz.hr/pozeska-kuca/
-scraped_at: 2026-04-10
-tags: [atrakcija, muzej, interpretacijski centar, pozega]
+source: 'https://pozega-tz.hr/pozeska-kuca/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - muzej
+  - interpretacijski centar
+  - pozega
 ---
 
 # Požeška kuća

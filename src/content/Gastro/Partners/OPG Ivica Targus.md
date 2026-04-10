@@ -1,8 +1,13 @@
 ---
 title: OPG Ivica Targuš
-source: https://pozega-tz.hr/opg-ivica-targus/
-scraped_at: 2026-04-10
-tags: [gastro, OPG, bobičasto voće, jagode, pozega]
+source: 'https://pozega-tz.hr/opg-ivica-targus/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - OPG
+  - bobičasto voće
+  - jagode
+  - pozega
 ---
 
 # OPG Ivica Targuš

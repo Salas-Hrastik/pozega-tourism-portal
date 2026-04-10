@@ -1,8 +1,12 @@
 ---
 title: Arhiva Sjednica Skupštine (2020-2024)
-source: https://pozega-tz.hr/dokumenti-informacije/
-scraped_at: 2026-04-10
-tags: [službeno, sjednice, arhiva, pozega]
+source: 'https://pozega-tz.hr/dokumenti-informacije/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - službeno
+  - sjednice
+  - arhiva
+  - pozega
 ---
 
 # Arhiva Sjednica Skupštine (2020-2024)

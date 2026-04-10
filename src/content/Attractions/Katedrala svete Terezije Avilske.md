@@ -1,8 +1,13 @@
 ---
 title: Katedrala svete Terezije Avilske
-source: https://pozega-tz.hr/katedrala-svete-terezije-avilske/
-scraped_at: 2026-04-10
-tags: [atrakcija, katedrala, arhitektura, barok, pozega]
+source: 'https://pozega-tz.hr/katedrala-svete-terezije-avilske/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - katedrala
+  - arhitektura
+  - barok
+  - pozega
 ---
 
 # Katedrala svete Terezije Avilske

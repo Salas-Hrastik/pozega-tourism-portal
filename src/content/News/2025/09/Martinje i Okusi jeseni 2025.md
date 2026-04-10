@@ -1,8 +1,14 @@
 ---
 title: Martinje & Okusi jeseni 2025
-source: https://pozega-tz.hr/martinje-okusi-jeseni-2025/
-date: 2025-09-30
-tags: [news, 2025, manifestacije, martinje, tradicija, sajam]
+source: 'https://pozega-tz.hr/martinje-okusi-jeseni-2025/'
+date: 2025-09-30T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - martinje
+  - tradicija
+  - sajam
 ---
 
 # Martinje & Okusi jeseni 2025

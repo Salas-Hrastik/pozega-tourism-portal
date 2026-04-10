@@ -1,8 +1,13 @@
 ---
 title: Restoran „Kamenita Vrata“
-source: https://pozega-tz.hr/restoran-kamenita-vrata/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, slavonska kuhinja, tradicija, pozega]
+source: 'https://pozega-tz.hr/restoran-kamenita-vrata/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - slavonska kuhinja
+  - tradicija
+  - pozega
 ---
 
 # Restoran „Kamenita Vrata“

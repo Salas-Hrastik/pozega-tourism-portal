@@ -1,8 +1,13 @@
 ---
 title: Zavjetni spomenik Presvetog Trojstva
-source: https://pozega-tz.hr/zavjetni-spomenik-presvetog-trojstva/
-scraped_at: 2026-04-10
-tags: [atrakcija, spomenik, kuga, barok, pozega]
+source: 'https://pozega-tz.hr/zavjetni-spomenik-presvetog-trojstva/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - spomenik
+  - kuga
+  - barok
+  - pozega
 ---
 
 # Zavjetni spomenik Presvetog Trojstva

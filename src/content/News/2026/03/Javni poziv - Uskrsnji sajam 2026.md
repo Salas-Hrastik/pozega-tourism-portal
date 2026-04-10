@@ -1,8 +1,14 @@
 ---
 title: Javni poziv – Uskršnji sajam 2026
-source: https://pozega-tz.hr/uskrsnjisajam2026/
-date: 2026-03-16
-tags: [news, 2026, manifestacije, uskrs, sajam, javni poziv]
+source: 'https://pozega-tz.hr/uskrsnjisajam2026/'
+date: 2026-03-16T00:00:00.000Z
+tags:
+  - news
+  - 2026
+  - manifestacije
+  - uskrs
+  - sajam
+  - javni poziv
 ---
 
 # Javni poziv – Uskršnji sajam 2026

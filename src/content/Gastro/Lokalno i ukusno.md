@@ -1,8 +1,13 @@
 ---
 title: Lokalno i ukusno - tradicija požeške kuhinje
-source: https://pozega-tz.hr/jedi-pij/lokalno-ukusno/
-scraped_at: 2026-04-10
-tags: [gastro, tradicija, recepti, slavonska kuhinja, pozega]
+source: 'https://pozega-tz.hr/jedi-pij/lokalno-ukusno/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - tradicija
+  - recepti
+  - slavonska kuhinja
+  - pozega
 ---
 
 # Lokalno i ukusno

@@ -1,8 +1,15 @@
 ---
 title: Savjetovanje – Plan upravljanja destinacijom Požega
-source: https://pozega-tz.hr/savjetovanje-s-javnoscu-nacrt-prijedloga-plana-upravljanja-destinacijom-grada-pozege/
-date: 2025-02-12
-tags: [news, 2025, dokumenti, strategija, razvoj, turizam]
+source: >-
+  https://pozega-tz.hr/savjetovanje-s-javnoscu-nacrt-prijedloga-plana-upravljanja-destinacijom-grada-pozege/
+date: 2025-02-12T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - dokumenti
+  - strategija
+  - razvoj
+  - turizam
 ---
 
 # Savjetovanje – Plan upravljanja destinacijom Požega

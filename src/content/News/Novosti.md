@@ -1,8 +1,12 @@
 ---
 title: Najnovije vijesti i obavijesti
-source: https://pozega-tz.hr/category/novosti/
-scraped_at: 2026-04-10
-tags: [novosti, obavijesti, aktualno, pozega]
+source: 'https://pozega-tz.hr/category/novosti/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - novosti
+  - obavijesti
+  - aktualno
+  - pozega
 ---
 
 # Novosti i aktualnosti

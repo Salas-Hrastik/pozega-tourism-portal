@@ -1,8 +1,13 @@
 ---
 title: Pizza Bolte Lounge Bar
-source: https://pozega-tz.hr/pizza-bolte-lounge-bar/
-scraped_at: 2026-04-10
-tags: [gastro, pizzerija, lounge bar, pješačka zona, pozega]
+source: 'https://pozega-tz.hr/pizza-bolte-lounge-bar/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - pizzerija
+  - lounge bar
+  - pješačka zona
+  - pozega
 ---
 
 # Pizza Bolte Lounge Bar

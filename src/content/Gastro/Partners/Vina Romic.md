@@ -1,8 +1,12 @@
 ---
 title: Vina Romić
-source: https://pozega-tz.hr/vina-romic-2/
-scraped_at: 2026-04-10
-tags: [gastro, vinarija, vino, pozega]
+source: 'https://pozega-tz.hr/vina-romic-2/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - vinarija
+  - vino
+  - pozega
 ---
 
 # Vina Romić

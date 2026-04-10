@@ -1,8 +1,13 @@
 ---
 title: Ugostiteljstvo Bilburger
-source: https://pozega-tz.hr/ugostiteljstvo-bilburger/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, rostilj, burgeri, pozega]
+source: 'https://pozega-tz.hr/ugostiteljstvo-bilburger/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - rostilj
+  - burgeri
+  - pozega
 ---
 
 # Ugostiteljstvo Bilburger

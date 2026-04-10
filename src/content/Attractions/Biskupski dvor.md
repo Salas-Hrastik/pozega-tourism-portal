@@ -1,8 +1,13 @@
 ---
 title: Biskupski dvor
-source: https://pozega-tz.hr/biskupski-dvor/
-scraped_at: 2026-04-10
-tags: [atrakcija, palaca, povijest, religija, pozega]
+source: 'https://pozega-tz.hr/biskupski-dvor/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - palaca
+  - povijest
+  - religija
+  - pozega
 ---
 
 # Biskupski dvor

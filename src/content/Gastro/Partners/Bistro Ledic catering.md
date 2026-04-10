@@ -1,8 +1,13 @@
 ---
 title: Bistro „Ledić catering“
-source: https://pozega-tz.hr/bistro-ledic-catering/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, catering, marende, pozega]
+source: 'https://pozega-tz.hr/bistro-ledic-catering/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - catering
+  - marende
+  - pozega
 ---
 
 # Bistro „Ledić catering“

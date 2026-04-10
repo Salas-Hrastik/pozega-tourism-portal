@@ -1,8 +1,13 @@
 ---
 title: Restoran “Lovački rog”
-source: https://pozega-tz.hr/restoran-lovacki-rog/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, divljac, tradicija, pozega]
+source: 'https://pozega-tz.hr/restoran-lovacki-rog/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - divljac
+  - tradicija
+  - pozega
 ---
 
 # Restoran “Lovački rog”

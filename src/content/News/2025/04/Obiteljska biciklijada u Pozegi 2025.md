@@ -1,8 +1,14 @@
 ---
 title: Obiteljska biciklijada u Požegi 2025
-source: https://pozega-tz.hr/obiteljska-biciklijada-u-pozegi-2025/
-date: 2025-04-02
-tags: [news, 2025, manifestacije, biciklizam, rekreacija, obitelj]
+source: 'https://pozega-tz.hr/obiteljska-biciklijada-u-pozegi-2025/'
+date: 2025-04-02T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - biciklizam
+  - rekreacija
+  - obitelj
 ---
 
 # Obiteljska biciklijada u Požegi 2025

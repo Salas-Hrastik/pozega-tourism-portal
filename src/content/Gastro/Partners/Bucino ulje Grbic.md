@@ -1,8 +1,13 @@
 ---
 title: Bučino ulje – Grbić d.o.o. Kušaonica
-source: https://pozega-tz.hr/bucino-ulje-grbic-d-o-o-kusaonica/
-scraped_at: 2026-04-10
-tags: [gastro, bučino ulje, zdrava hrana, kušaonica, pozega]
+source: 'https://pozega-tz.hr/bucino-ulje-grbic-d-o-o-kusaonica/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - bučino ulje
+  - zdrava hrana
+  - kušaonica
+  - pozega
 ---
 
 # Bučino ulje – Grbić d.o.o. Kušaonica

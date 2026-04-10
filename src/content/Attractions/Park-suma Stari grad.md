@@ -1,8 +1,13 @@
 ---
 title: Park-šuma Stari grad
-source: https://pozega-tz.hr/park-suma-stari-grad/
-scraped_at: 2026-04-10
-tags: [atrakcija, park, utvrda, povijest, pozega]
+source: 'https://pozega-tz.hr/park-suma-stari-grad/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - park
+  - utvrda
+  - povijest
+  - pozega
 ---
 
 # Park-šuma Stari grad

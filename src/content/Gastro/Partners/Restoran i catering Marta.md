@@ -1,8 +1,13 @@
 ---
 title: Restoran i catering Marta
-source: https://pozega-tz.hr/restoran-i-catering-marta/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, catering, proslave, pozega]
+source: 'https://pozega-tz.hr/restoran-i-catering-marta/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - catering
+  - proslave
+  - pozega
 ---
 
 # Restoran i catering Marta

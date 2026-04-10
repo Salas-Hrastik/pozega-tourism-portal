@@ -1,8 +1,15 @@
 ---
 title: Ivanjski krijes 2025
-source: https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-prodaju-proizvoda-i-ugostiteljskih-usluga-u-sklopu-manifestacije-ivanjski-krijes-2025/
-date: 2025-05-19
-tags: [news, 2025, manifestacije, ivanjski krijes, tradicija, obicaji]
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-prodaju-proizvoda-i-ugostiteljskih-usluga-u-sklopu-manifestacije-ivanjski-krijes-2025/
+date: 2025-05-19T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - ivanjski krijes
+  - tradicija
+  - obicaji
 ---
 
 # Ivanjski krijes 2025

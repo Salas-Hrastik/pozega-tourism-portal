@@ -1,8 +1,13 @@
 ---
 title: Spomenik fra Luki Ibrišimoviću
-source: https://pozega-tz.hr/spomenik-fra-luki-ibrisimovicu/
-scraped_at: 2026-04-10
-tags: [atrakcija, spomenik, povijest, sokol, pozega]
+source: 'https://pozega-tz.hr/spomenik-fra-luki-ibrisimovicu/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - spomenik
+  - povijest
+  - sokol
+  - pozega
 ---
 
 # Spomenik fra Luki Ibrišimoviću

@@ -1,8 +1,13 @@
 ---
 title: Lješnjak – OPG Olga Špalj – Sigurnjak
-source: https://pozega-tz.hr/ljesnjak-opg-olga-spalj-sigurnjak/
-scraped_at: 2026-04-10
-tags: [gastro, lješnjak, OPG, domaci proizvodi, pozega]
+source: 'https://pozega-tz.hr/ljesnjak-opg-olga-spalj-sigurnjak/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - lješnjak
+  - OPG
+  - domaci proizvodi
+  - pozega
 ---
 
 # Lješnjak – OPG Olga Špalj – Sigurnjak

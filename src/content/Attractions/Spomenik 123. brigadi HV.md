@@ -1,8 +1,13 @@
 ---
 title: Spomenik poginulim hrvatskim braniteljima
-source: https://pozega-tz.hr/spomenik-123-brigadi-hrvatske-vojske/
-scraped_at: 2026-04-10
-tags: [atrakcija, spomenik, povijest, domovinski rat, pozega]
+source: 'https://pozega-tz.hr/spomenik-123-brigadi-hrvatske-vojske/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - spomenik
+  - povijest
+  - domovinski rat
+  - pozega
 ---
 
 # Spomenik poginulim hrvatskim braniteljima

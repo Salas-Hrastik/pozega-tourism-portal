@@ -1,8 +1,15 @@
 ---
 title: Dan grada Požege i Grgurevo 2025
-source: https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-izlaganje-prezentaciju-i-prodaju-proizvoda-na-proslavi-dana-grada-pozege-i-grgureva-2025/
-date: 2025-02-10
-tags: [news, 2025, manifestacije, dan grada, grgurevo, tradicija]
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-izlaganje-prezentaciju-i-prodaju-proizvoda-na-proslavi-dana-grada-pozege-i-grgureva-2025/
+date: 2025-02-10T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - dan grada
+  - grgurevo
+  - tradicija
 ---
 
 # Dan grada Požege i Grgurevo 2025

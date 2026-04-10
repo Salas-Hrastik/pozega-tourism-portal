@@ -1,8 +1,13 @@
 ---
 title: Katolička osnovna škola i gimnazija
-source: https://pozega-tz.hr/katolicka-osnovna-skola-i-gimnazija/
-scraped_at: 2026-04-10
-tags: [atrakcija, skola, arhitektura, povijest, pozega]
+source: 'https://pozega-tz.hr/katolicka-osnovna-skola-i-gimnazija/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - skola
+  - arhitektura
+  - povijest
+  - pozega
 ---
 
 # Katolička osnovna škola i gimnazija

@@ -1,8 +1,13 @@
 ---
 title: Palača Suda i sveti Florijan
-source: https://pozega-tz.hr/palaca-suda-i-sv-florijan/
-scraped_at: 2026-04-10
-tags: [atrakcija, palaca, arhitektura, povijest, pozega]
+source: 'https://pozega-tz.hr/palaca-suda-i-sv-florijan/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - palaca
+  - arhitektura
+  - povijest
+  - pozega
 ---
 
 # Palača Suda i sveti Florijan

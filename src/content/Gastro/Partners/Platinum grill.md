@@ -1,8 +1,13 @@
 ---
 title: Platinum grill
-source: https://pozega-tz.hr/pizza-i-grill-platinum/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, pizza, grill, pozega]
+source: 'https://pozega-tz.hr/pizza-i-grill-platinum/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - pizza
+  - grill
+  - pozega
 ---
 
 # Platinum grill

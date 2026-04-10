@@ -1,8 +1,14 @@
 ---
-title: Restoran ,,Zlatni Lug”
-source: https://pozega-tz.hr/restoran-kamp-odmorista-zlatni-lug/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, kamp, priroda, seoski turizam, pozega]
+title: 'Restoran ,,Zlatni Lug”'
+source: 'https://pozega-tz.hr/restoran-kamp-odmorista-zlatni-lug/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - kamp
+  - priroda
+  - seoski turizam
+  - pozega
 ---
 
 # Restoran ,,Zlatni Lug”

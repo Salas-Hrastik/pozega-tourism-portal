@@ -1,8 +1,15 @@
 ---
 title: Proljeće u Požegi 2025
-source: https://pozega-tz.hr/proljece-u-pozegi-vrijeme-druzenja-tradicije-i-uzivanja-na-otvorenom/
-date: 2025-03-26
-tags: [news, 2025, manifestacije, proljeće, uskrs, tradicija]
+source: >-
+  https://pozega-tz.hr/proljece-u-pozegi-vrijeme-druzenja-tradicije-i-uzivanja-na-otvorenom/
+date: 2025-03-26T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - proljeće
+  - uskrs
+  - tradicija
 ---
 
 # Proljeće u Požegi 2025 – Vrijeme druženja i tradicije

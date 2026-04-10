@@ -1,8 +1,13 @@
 ---
 title: Grill Lav
-source: https://pozega-tz.hr/grill-lav/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, rostilj, fast food, pozega]
+source: 'https://pozega-tz.hr/grill-lav/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - rostilj
+  - fast food
+  - pozega
 ---
 
 # Grill Lav

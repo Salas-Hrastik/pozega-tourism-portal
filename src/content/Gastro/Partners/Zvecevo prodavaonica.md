@@ -1,8 +1,13 @@
 ---
 title: Zvečevo – prodavaonica
-source: https://pozega-tz.hr/zvecevo-prodavaonica/
-scraped_at: 2026-04-10
-tags: [gastro, čokolada, alkoholna pića, tradicija, pozega]
+source: 'https://pozega-tz.hr/zvecevo-prodavaonica/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - čokolada
+  - alkoholna pića
+  - tradicija
+  - pozega
 ---
 
 # Zvečevo – prodavaonica

@@ -1,8 +1,13 @@
 ---
 title: 4. sjednica Skupštine – 2026
-source: https://pozega-tz.hr/4-sjednica-skupstine-turisticke-zajednice-grada-pozege-2/
-date: 2026-03-26
-tags: [službeno, sjednice, skupština, 2026, pozega]
+source: 'https://pozega-tz.hr/4-sjednica-skupstine-turisticke-zajednice-grada-pozege-2/'
+date: 2026-03-26T00:00:00.000Z
+tags:
+  - službeno
+  - sjednice
+  - skupština
+  - 2026
+  - pozega
 ---
 
 # 4. sjednica Skupštine Turističke zajednice Grada Požege

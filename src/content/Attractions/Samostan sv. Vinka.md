@@ -1,8 +1,13 @@
 ---
 title: Samostan redovnica sv. Vinka
-source: https://pozega-tz.hr/samostan-redovnica-sv-vinka/
-scraped_at: 2026-04-10
-tags: [atrakcija, samostan, povijest, obrazovanje, pozega]
+source: 'https://pozega-tz.hr/samostan-redovnica-sv-vinka/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - samostan
+  - povijest
+  - obrazovanje
+  - pozega
 ---
 
 # Samostan redovnica sv. Vinka

@@ -1,8 +1,13 @@
 ---
 title: Destilerija Šimić
-source: https://pozega-tz.hr/destilerija-simic/
-scraped_at: 2026-04-10
-tags: [gastro, rakija, destilerija, vocne rakije, pozega]
+source: 'https://pozega-tz.hr/destilerija-simic/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - rakija
+  - destilerija
+  - vocne rakije
+  - pozega
 ---
 
 # Destilerija Šimić

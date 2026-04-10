@@ -1,8 +1,13 @@
 ---
 title: Požeški kotlić 2026. – Prijava natjecatelja
-source: https://pozega-tz.hr/pozeski-kotlic-2026-prijava-natjecatelja/
-date: 2026-04-08
-tags: [news, 2026, manifestacije, pozeski kotlic, gatro]
+source: 'https://pozega-tz.hr/pozeski-kotlic-2026-prijava-natjecatelja/'
+date: 2026-04-08T00:00:00.000Z
+tags:
+  - news
+  - 2026
+  - manifestacije
+  - pozeski kotlic
+  - gatro
 ---
 
 # Požeški kotlić 2026. – Prijava natjecatelja

@@ -1,5 +1,5 @@
 ---
-title: Javni poziv – Advent 2025: Sajamske kućice
+title: "Javni poziv – Advent 2025: Sajamske kućice"
 source: https://pozega-tz.hr/javni-poziv-za-davanje-na-koristenje-drvene-sajamske-kucice-u-adventskom-razdoblju/
 date: 2025-11-27
 tags: [news, 2025, manifestacije, advent, sajam, kućice]

@@ -1,8 +1,15 @@
 ---
 title: Javni poziv – Ugostiteljske kućice Advent 2025
-source: https://pozega-tz.hr/javni-poziv-za-davanje-na-koristenje-drvenih-sajamskih-kucica-ugostiteljima-u-adventskom-razdoblju/
-date: 2025-10-09
-tags: [news, 2025, manifestacije, advent, ugostiteljstvo, poziv]
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-davanje-na-koristenje-drvenih-sajamskih-kucica-ugostiteljima-u-adventskom-razdoblju/
+date: 2025-10-09T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - advent
+  - ugostiteljstvo
+  - poziv
 ---
 
 # Javni poziv – Ugostiteljske kućice Advent 2025

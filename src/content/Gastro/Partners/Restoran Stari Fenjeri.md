@@ -1,8 +1,13 @@
 ---
 title: Restoran „Stari Fenjeri“
-source: https://pozega-tz.hr/restoran-stari-fenjeri/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, ribnjak, proslave, pozega]
+source: 'https://pozega-tz.hr/restoran-stari-fenjeri/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - ribnjak
+  - proslave
+  - pozega
 ---
 
 # Restoran „Stari Fenjeri“

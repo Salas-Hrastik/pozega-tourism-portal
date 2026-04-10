@@ -1,8 +1,14 @@
 ---
 title: Fišijada 2025 – Natjecanje i ponuda
-source: https://pozega-tz.hr/fisijada2025-natjecanje/
-date: 2025-07-24
-tags: [news, 2025, manifestacije, fisijada, natjecanje, gastro]
+source: 'https://pozega-tz.hr/fisijada2025-natjecanje/'
+date: 2025-07-24T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - fisijada
+  - natjecanje
+  - gastro
 ---
 
 # Fišijada 2025 – Natjecanje i ponuda

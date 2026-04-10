@@ -1,8 +1,12 @@
 ---
 title: Vinogradarstvo i vinarstvo Zrinščak
-source: https://pozega-tz.hr/vinogradarstvo-i-vinarstvo-zrinscak/
-scraped_at: 2026-04-10
-tags: [gastro, vinarija, vino, pozega]
+source: 'https://pozega-tz.hr/vinogradarstvo-i-vinarstvo-zrinscak/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - vinarija
+  - vino
+  - pozega
 ---
 
 # Vinogradarstvo i vinarstvo Zrinščak

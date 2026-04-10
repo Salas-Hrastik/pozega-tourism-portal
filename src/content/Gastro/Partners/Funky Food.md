@@ -1,8 +1,12 @@
 ---
 title: Funky Food
-source: https://pozega-tz.hr/funky-food/
-scraped_at: 2026-04-10
-tags: [gastro, street food, inovativna kuhinja, pozega]
+source: 'https://pozega-tz.hr/funky-food/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - street food
+  - inovativna kuhinja
+  - pozega
 ---
 
 # Funky Food

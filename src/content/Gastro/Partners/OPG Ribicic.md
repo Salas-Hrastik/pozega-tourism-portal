@@ -1,8 +1,13 @@
 ---
 title: Obiteljsko gospodarstvo Ribičić
-source: https://pozega-tz.hr/obiteljsko-gospodarstvo-ribicic/
-scraped_at: 2026-04-10
-tags: [gastro, OPG, domaci proizvodi, meso, pozega]
+source: 'https://pozega-tz.hr/obiteljsko-gospodarstvo-ribicic/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - OPG
+  - domaci proizvodi
+  - meso
+  - pozega
 ---
 
 # Obiteljsko gospodarstvo Ribičić

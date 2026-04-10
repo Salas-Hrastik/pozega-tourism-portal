@@ -1,10 +1,15 @@
 ---
 title: Pizza & pasta Verde
-source: https://pozega-tz.hr/pizza-pasta-verde/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, pizzerija, talijanska kuhinja, pozega]
-address: Trg Sv. Trojstva 11, 34000 Požega
-phone: "+385 (0)34 274 900"
+source: 'https://pozega-tz.hr/pizza-pasta-verde/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - pizzerija
+  - talijanska kuhinja
+  - pozega
+address: 'Trg Sv. Trojstva 11, 34000 Požega'
+phone: +385 (0)34 274 900
 email: tz-pozega@po.t-com.hr
 ---
 

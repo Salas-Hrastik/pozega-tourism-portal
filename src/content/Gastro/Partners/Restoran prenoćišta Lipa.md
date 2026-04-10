@@ -1,8 +1,13 @@
 ---
 title: Restoran prenoćišta Lipa
-source: https://pozega-tz.hr/restoran-prenocista-lipa/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, prenoćište, centar, pozega]
+source: 'https://pozega-tz.hr/restoran-prenocista-lipa/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - prenoćište
+  - centar
+  - pozega
 ---
 
 # Restoran prenoćišta Lipa

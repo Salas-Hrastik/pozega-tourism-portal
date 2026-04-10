@@ -1,8 +1,13 @@
 ---
 title: Požega - Grad i njegova povijest
-source: https://pozega-tz.hr/vidi-i-dozivi/grad-povijest/
-scraped_at: 2026-04-10
-tags: [povijest, grad, kultura, tradicija, pozega]
+source: 'https://pozega-tz.hr/vidi-i-dozivi/grad-povijest/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - povijest
+  - grad
+  - kultura
+  - tradicija
+  - pozega
 ---
 
 # Grad i povijest Požege

@@ -1,8 +1,15 @@
 ---
 title: Odluka o odabiru izlagača – Dan grada 2025
-source: https://pozega-tz.hr/odluka-o-odabiru-izlagaca-koji-su-ostvarili-pravo-na-sudjelovanje-u-manifestaciji-dan-grada-pozege-i-grgurevo-2025/
-date: 2025-02-28
-tags: [news, 2025, manifestacije, dan grada, grgurevo, odluka]
+source: >-
+  https://pozega-tz.hr/odluka-o-odabiru-izlagaca-koji-su-ostvarili-pravo-na-sudjelovanje-u-manifestaciji-dan-grada-pozege-i-grgurevo-2025/
+date: 2025-02-28T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - dan grada
+  - grgurevo
+  - odluka
 ---
 
 # Odluka o odabiru izlagača – Dan grada 2025

@@ -1,8 +1,13 @@
 ---
 title: Restoran i caffe bar Cool
-source: https://pozega-tz.hr/restoran-i-caffe-bar-cool/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, caffe bar, pješačka zona, pozega]
+source: 'https://pozega-tz.hr/restoran-i-caffe-bar-cool/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - caffe bar
+  - pješačka zona
+  - pozega
 ---
 
 # Restoran i caffe bar Cool

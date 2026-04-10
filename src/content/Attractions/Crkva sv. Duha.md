@@ -1,8 +1,13 @@
 ---
 title: Crkva Svetog Duha i franjevački samostan
-source: https://pozega-tz.hr/crkva-svetog-duha-i-franjevacki-samostan/
-scraped_at: 2026-04-10
-tags: [atrakcija, crkva, samostan, povijest, pozega]
+source: 'https://pozega-tz.hr/crkva-svetog-duha-i-franjevacki-samostan/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - crkva
+  - samostan
+  - povijest
+  - pozega
 ---
 
 # Crkva Svetog Duha i franjevački samostan

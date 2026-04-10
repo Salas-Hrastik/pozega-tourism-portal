@@ -1,8 +1,15 @@
 ---
 title: Zlatno ljeto tradicije 2025
-source: https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-izlaganje-prezentaciju-i-prodaju-proizvoda-na-sajmu-zlatno-ljeto-tradicije-2025/
-date: 2025-05-26
-tags: [news, 2025, manifestacije, sajam, tradicija, ljeto]
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-izlaganje-prezentaciju-i-prodaju-proizvoda-na-sajmu-zlatno-ljeto-tradicije-2025/
+date: 2025-05-26T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - sajam
+  - tradicija
+  - ljeto
 ---
 
 # Zlatno ljeto tradicije 2025

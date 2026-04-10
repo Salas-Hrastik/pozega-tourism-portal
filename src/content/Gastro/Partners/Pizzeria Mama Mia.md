@@ -1,8 +1,12 @@
 ---
 title: Pizzeria Mama Mia
-source: https://pozega-tz.hr/pizzeria-mama-mia/
-scraped_at: 2026-04-10
-tags: [gastro, pizzerija, talijanska kuhinja, pozega]
+source: 'https://pozega-tz.hr/pizzeria-mama-mia/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - pizzerija
+  - talijanska kuhinja
+  - pozega
 ---
 
 # Pizzeria Mama Mia

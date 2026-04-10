@@ -1,8 +1,13 @@
 ---
 title: Kavane i slastičarnice u Požegi
-source: https://pozega-tz.hr/jedi-pij/kavane-slasticarnice/
-scraped_at: 2026-04-10
-tags: [gastro, kava, kolaci, kava s pogledom, pozega]
+source: 'https://pozega-tz.hr/jedi-pij/kavane-slasticarnice/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - kava
+  - kolaci
+  - kava s pogledom
+  - pozega
 ---
 
 # Kavane i slastičarnice

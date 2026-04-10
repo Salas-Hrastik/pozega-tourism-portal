@@ -1,8 +1,12 @@
 ---
 title: Vinarija Bartolović
-source: https://pozega-tz.hr/vinarija-bartolovic/
-scraped_at: 2026-04-10
-tags: [gastro, vinarija, vino, pozega]
+source: 'https://pozega-tz.hr/vinarija-bartolovic/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - vinarija
+  - vino
+  - pozega
 ---
 
 # Vinarija Bartolović

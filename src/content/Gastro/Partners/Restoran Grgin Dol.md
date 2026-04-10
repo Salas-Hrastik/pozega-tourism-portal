@@ -1,8 +1,14 @@
 ---
 title: Restoran prenoćišta „Grgin Dol“
-source: https://pozega-tz.hr/restoran-prenocista-grgin-dol/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, prenoćište, slavonska kuhinja, vino, pozega]
+source: 'https://pozega-tz.hr/restoran-prenocista-grgin-dol/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - prenoćište
+  - slavonska kuhinja
+  - vino
+  - pozega
 ---
 
 # Restoran prenoćišta „Grgin Dol“

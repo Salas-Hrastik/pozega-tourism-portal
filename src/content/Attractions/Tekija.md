@@ -1,8 +1,13 @@
 ---
 title: Tekija
-source: https://pozega-tz.hr/tekija/
-scraped_at: 2026-04-10
-tags: [atrakcija, izvor, setaliste, legenda, pozega]
+source: 'https://pozega-tz.hr/tekija/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - izvor
+  - setaliste
+  - legenda
+  - pozega
 ---
 
 # Tekija

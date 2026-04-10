@@ -1,8 +1,13 @@
 ---
 title: OPG Dario Galić
-source: https://pozega-tz.hr/opg-dario-galic/
-scraped_at: 2026-04-10
-tags: [gastro, OPG, povrće, krumpir, pozega]
+source: 'https://pozega-tz.hr/opg-dario-galic/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - OPG
+  - povrće
+  - krumpir
+  - pozega
 ---
 
 # OPG Dario Galić

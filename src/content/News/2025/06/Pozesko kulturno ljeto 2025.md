@@ -1,8 +1,15 @@
 ---
 title: Požeško kulturno ljeto 2025
-source: https://pozega-tz.hr/pozesko-kulturno-ljeto-2/
-date: 2025-06-11
-tags: [news, 2025, manifestacije, kultura, ljeto, koncerti, kino]
+source: 'https://pozega-tz.hr/pozesko-kulturno-ljeto-2/'
+date: 2025-06-11T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - kultura
+  - ljeto
+  - koncerti
+  - kino
 ---
 
 # Požeško kulturno ljeto 2025

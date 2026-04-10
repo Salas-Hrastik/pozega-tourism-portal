@@ -1,8 +1,13 @@
 ---
 title: Prodavaonica „Kulen Hruška“
-source: https://pozega-tz.hr/prodavaonica-kulen-hruska/
-scraped_at: 2026-04-10
-tags: [gastro, kulen, delikatese, tradicija, pozega]
+source: 'https://pozega-tz.hr/prodavaonica-kulen-hruska/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - kulen
+  - delikatese
+  - tradicija
+  - pozega
 ---
 
 # Prodavaonica „Kulen Hruška“

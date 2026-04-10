@@ -1,8 +1,13 @@
 ---
 title: Pčelarska udruga Zlatna dolina
-source: https://pozega-tz.hr/pcelarska-udruga-zlatna-dolina/
-scraped_at: 2026-04-10
-tags: [gastro, med, pčelarstvo, udruga, pozega]
+source: 'https://pozega-tz.hr/pcelarska-udruga-zlatna-dolina/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - med
+  - pčelarstvo
+  - udruga
+  - pozega
 ---
 
 # Pčelarska udruga Zlatna dolina

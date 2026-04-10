@@ -1,8 +1,12 @@
 ---
 title: Dijecezanski muzej Požeške biskupije
-source: https://pozega-tz.hr/dijecezanski-muzej-pozeske-biskupije/
-scraped_at: 2026-04-10
-tags: [atrakcija, muzej, kultura, pozega]
+source: 'https://pozega-tz.hr/dijecezanski-muzej-pozeske-biskupije/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - muzej
+  - kultura
+  - pozega
 ---
 
 # Dijecezanski muzej Požeške biskupije

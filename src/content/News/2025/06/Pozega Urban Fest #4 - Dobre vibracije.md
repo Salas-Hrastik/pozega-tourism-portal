@@ -1,8 +1,15 @@
 ---
-title: Požega Urban Fest #4 – Dobre vibracije
-source: https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-prodaju-proizvoda-i-ugostiteljskih-usluga-na-manifestaciji-dobre-vibracije-pozega-urban-fest-4/
-date: 2025-06-05
-tags: [news, 2025, manifestacije, urban fest, glazba, festival]
+title: Požega Urban Fest
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-prodaju-proizvoda-i-ugostiteljskih-usluga-na-manifestaciji-dobre-vibracije-pozega-urban-fest-4/
+date: 2025-06-05T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - urban fest
+  - glazba
+  - festival
 ---
 
 # Požega Urban Fest #4 – Dobre vibracije

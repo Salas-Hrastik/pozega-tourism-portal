@@ -1,8 +1,13 @@
 ---
 title: Dokumenti i Informacije - Službeni Index
-source: https://pozega-tz.hr/dokumenti-informacije/
-scraped_at: 2026-04-10
-tags: [službeno, dokumenti, propisi, sjednice, pozega]
+source: 'https://pozega-tz.hr/dokumenti-informacije/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - službeno
+  - dokumenti
+  - propisi
+  - sjednice
+  - pozega
 ---
 
 # Dokumenti & Informacije

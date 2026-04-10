@@ -1,8 +1,14 @@
 ---
 title: Požeški kotlić 2025
-source: https://pozega-tz.hr/pozeski-kotlic-2025-prijave-natjecatelja/
-date: 2025-03-25
-tags: [news, 2025, manifestacije, pozeski kotlic, gatro, natjecanje]
+source: 'https://pozega-tz.hr/pozeski-kotlic-2025-prijave-natjecatelja/'
+date: 2025-03-25T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - pozeski kotlic
+  - gatro
+  - natjecanje
 ---
 
 # Požeški kotlić 2025

@@ -1,8 +1,12 @@
 ---
 title: Calimero Požega
-source: https://pozega-tz.hr/calimero-pozega/
-scraped_at: 2026-04-10
-tags: [gastro, restoran, dječji meni, pozega]
+source: 'https://pozega-tz.hr/calimero-pozega/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restoran
+  - dječji meni
+  - pozega
 ---
 
 # Calimero Požega

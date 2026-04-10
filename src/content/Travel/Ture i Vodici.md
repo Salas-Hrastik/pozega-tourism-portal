@@ -1,8 +1,13 @@
 ---
 title: Ture & Vodiči
-source: https://pozega-tz.hr/putuj-upoznaj/ture-vodici/
-scraped_at: 2026-04-10
-tags: [putovanja, ture, vodiči, razgled, grad]
+source: 'https://pozega-tz.hr/putuj-upoznaj/ture-vodici/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - putovanja
+  - ture
+  - vodiči
+  - razgled
+  - grad
 ---
 
 # Ture & Vodiči

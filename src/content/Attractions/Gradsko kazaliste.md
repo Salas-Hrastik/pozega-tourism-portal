@@ -1,8 +1,12 @@
 ---
 title: Gradsko kazalište Požega
-source: https://pozega-tz.hr/gradsko-kazaliste-pozega/
-scraped_at: 2026-04-10
-tags: [atrakcija, kazaliste, kultura, pozega]
+source: 'https://pozega-tz.hr/gradsko-kazaliste-pozega/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - kazaliste
+  - kultura
+  - pozega
 ---
 
 # Gradsko kazalište Požega

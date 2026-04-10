@@ -1,8 +1,13 @@
 ---
 title: Događanja u Požegi kroz godinu
-source: https://pozega-tz.hr/dogadanja/
-scraped_at: 2026-04-10
-tags: [dogadjanja, manifestacije, kultura, zabava, pozega]
+source: 'https://pozega-tz.hr/dogadanja/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - dogadjanja
+  - manifestacije
+  - kultura
+  - zabava
+  - pozega
 ---
 
 # Događanja u Požegi

@@ -1,8 +1,13 @@
 ---
 title: 2. sjednica Skupštine – 2025
-source: https://pozega-tz.hr/2-sjednica-skupstine-turisticke-zajednice-grada-pozege/
-date: 2025-03-26
-tags: [službeno, sjednice, skupština, 2025, pozega]
+source: 'https://pozega-tz.hr/2-sjednica-skupstine-turisticke-zajednice-grada-pozege/'
+date: 2025-03-26T00:00:00.000Z
+tags:
+  - službeno
+  - sjednice
+  - skupština
+  - 2025
+  - pozega
 ---
 
 # 2. sjednica Skupštine Turističke zajednice Grada Požege

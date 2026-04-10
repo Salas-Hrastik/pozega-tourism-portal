@@ -1,8 +1,15 @@
 ---
 title: Zlatne žice Slavonije 2025 – Javni pozivi
-source: https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-prodaju-proizvoda-i-ugostiteljskih-usluga-u-sklopu-ugostiteljske-zone-glazbenog-festivala-zlatne-zice-slavonije-pozega-2025/
-date: 2025-07-29
-tags: [news, 2025, manifestacije, zlatne zice, festival, poziv]
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-prodaju-proizvoda-i-ugostiteljskih-usluga-u-sklopu-ugostiteljske-zone-glazbenog-festivala-zlatne-zice-slavonije-pozega-2025/
+date: 2025-07-29T00:00:00.000Z
+tags:
+  - news
+  - 2025
+  - manifestacije
+  - zlatne zice
+  - festival
+  - poziv
 ---
 
 # Zlatne žice Slavonije 2025 – Javni pozivi

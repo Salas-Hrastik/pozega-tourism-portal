@@ -1,8 +1,13 @@
 ---
 title: Snack bar – minipizzeria „Dami“
-source: https://pozega-tz.hr/snack-bar-minipizzeria-dami/
-scraped_at: 2026-04-10
-tags: [gastro, fast food, pizzerija, snack bar, pozega]
+source: 'https://pozega-tz.hr/snack-bar-minipizzeria-dami/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - fast food
+  - pizzerija
+  - snack bar
+  - pozega
 ---
 
 # Snack bar – minipizzeria „Dami“

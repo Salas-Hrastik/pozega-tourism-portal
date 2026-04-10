@@ -1,8 +1,13 @@
 ---
 title: OPG Sveti Ambrozije
-source: https://pozega-tz.hr/opg-sveti-ambrozije/
-scraped_at: 2026-04-10
-tags: [gastro, med, pčelarstvo, OPG, pozega]
+source: 'https://pozega-tz.hr/opg-sveti-ambrozije/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - med
+  - pčelarstvo
+  - OPG
+  - pozega
 ---
 
 # OPG Sveti Ambrozije

@@ -1,8 +1,13 @@
 ---
 title: Sokolovac
-source: https://pozega-tz.hr/sokolovac/
-scraped_at: 2026-04-10
-tags: [atrakcija, vidikovac, brdo, povijest, pozega]
+source: 'https://pozega-tz.hr/sokolovac/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - vidikovac
+  - brdo
+  - povijest
+  - pozega
 ---
 
 # Sokolovac

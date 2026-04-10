@@ -1,8 +1,15 @@
 ---
 title: Javni poziv – Dan grada i Grgurevo 2026
-source: https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-izlaganje-prezentaciju-i-prodaju-proizvoda-i-ugostiteljskih-usluga-na-proslavi-dana-grada-pozege-i-grgureva/
-date: 2026-02-02
-tags: [news, 2026, manifestacije, dan grada, grgurevo, javni poziv]
+source: >-
+  https://pozega-tz.hr/javni-poziv-za-iskaz-interesa-za-izlaganje-prezentaciju-i-prodaju-proizvoda-i-ugostiteljskih-usluga-na-proslavi-dana-grada-pozege-i-grgureva/
+date: 2026-02-02T00:00:00.000Z
+tags:
+  - news
+  - 2026
+  - manifestacije
+  - dan grada
+  - grgurevo
+  - javni poziv
 ---
 
 # Javni poziv – Dan grada i Grgurevo 2026

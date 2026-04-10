@@ -1,8 +1,13 @@
 ---
 title: Gimnazija Požega
-source: https://pozega-tz.hr/nova-zgrada-pozeske-gimnazije/
-scraped_at: 2026-04-10
-tags: [atrakcija, skola, povijest, arhitektura, pozega]
+source: 'https://pozega-tz.hr/nova-zgrada-pozeske-gimnazije/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - skola
+  - povijest
+  - arhitektura
+  - pozega
 ---
 
 # Gimnazija Požega

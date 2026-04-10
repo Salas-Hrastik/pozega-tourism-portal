@@ -1,8 +1,13 @@
 ---
 title: OPG Zdenka Prpić
-source: https://pozega-tz.hr/opg-zdenka-prpic/
-scraped_at: 2026-04-10
-tags: [gastro, OPG, povrće, prerada hrane, pozega]
+source: 'https://pozega-tz.hr/opg-zdenka-prpic/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - OPG
+  - povrće
+  - prerada hrane
+  - pozega
 ---
 
 # OPG Zdenka Prpić

@@ -1,8 +1,12 @@
 ---
 title: Gradska knjižnica Požega
-source: https://pozega-tz.hr/gradska-knjiznica-pozega/
-scraped_at: 2026-04-10
-tags: [atrakcija, knjiznica, kultura, pozega]
+source: 'https://pozega-tz.hr/gradska-knjiznica-pozega/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - knjiznica
+  - kultura
+  - pozega
 ---
 
 # Gradska knjižnica Požega

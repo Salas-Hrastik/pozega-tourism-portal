@@ -1,8 +1,14 @@
 ---
 title: Akademska vina Zlatne doline
-source: https://pozega-tz.hr/prodavaonice-vina-veleuciliste-u-pozegi/
-scraped_at: 2026-04-10
-tags: [gastro, vinarija, veleučilište, obrazovanje, vino, pozega]
+source: 'https://pozega-tz.hr/prodavaonice-vina-veleuciliste-u-pozegi/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - vinarija
+  - veleučilište
+  - obrazovanje
+  - vino
+  - pozega
 ---
 
 # Akademska vina Zlatne doline

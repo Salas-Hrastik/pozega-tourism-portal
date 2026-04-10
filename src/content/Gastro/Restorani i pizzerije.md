@@ -1,8 +1,13 @@
 ---
 title: Restorani i pizzerije u Požegi
-source: https://pozega-tz.hr/jedi-pij/restorani-pizzerije/
-scraped_at: 2026-04-10
-tags: [gastro, restorani, pizzerije, hrana, pozega]
+source: 'https://pozega-tz.hr/jedi-pij/restorani-pizzerije/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - restorani
+  - pizzerije
+  - hrana
+  - pozega
 ---
 
 # Restorani i pizzerije u Požegi

@@ -1,8 +1,13 @@
 ---
 title: Pivovara Franz
-source: https://pozega-tz.hr/pivovara-franz-2/
-scraped_at: 2026-04-10
-tags: [gastro, pivo, pivovara, obiteljska pivovara, pozega]
+source: 'https://pozega-tz.hr/pivovara-franz-2/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - gastro
+  - pivo
+  - pivovara
+  - obiteljska pivovara
+  - pozega
 ---
 
 # Pivovara Franz

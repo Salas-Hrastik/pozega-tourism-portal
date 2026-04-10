@@ -1,8 +1,13 @@
 ---
 title: Trg Svetog Trojstva
-source: https://pozega-tz.hr/trg-svetog-trojstva/
-scraped_at: 2026-04-10
-tags: [atrakcija, trg, povijest, centar, pozega]
+source: 'https://pozega-tz.hr/trg-svetog-trojstva/'
+scraped_at: 2026-04-10T00:00:00.000Z
+tags:
+  - atrakcija
+  - trg
+  - povijest
+  - centar
+  - pozega
 ---
 
 # Trg Svetog Trojstva
