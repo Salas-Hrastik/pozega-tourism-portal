@@ -8,7 +8,7 @@ const THEMES = [
   { label: 'Gdje jesti?', icon: <Utensils size={14} />, query: 'Preporuči mi najbolje restorane i vinarije u Požegi.' },
   { label: 'Što posjetiti?', icon: <MapPin size={14} />, query: 'Koje su najvažnije znamenitosti koje moram vidjeti?' },
   { label: 'Događanja', icon: <Calendar size={14} />, query: 'Kakva su događanja i manifestacije planirane u Požegi?' },
-  { label: 'Upoznaj grad', icon: <Compass size={14} />, query: 'Reci mi nešto o povijesti Požege i Barunu Trenku.' },
+  { label: 'Upoznaj grad', icon: <Compass size={14} />, query: 'Reci mi nešto više o povijesti i kulturi grada Požege.' },
 ];
 
 export default function HeaderThemes() {

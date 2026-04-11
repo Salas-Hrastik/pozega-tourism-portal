@@ -34,7 +34,7 @@ export default function RootLayout({
             <HeaderThemes />
 
             <div className="nav-right">
-              <div className="brda-doline">Brda & Doline</div>
+              {/* Removed Brda & Doline */}
             </div>
           </nav>
 

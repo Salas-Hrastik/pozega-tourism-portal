@@ -7,9 +7,9 @@ export default async function Home() {
       <section className="hero">
         <div className="container">
           <p style={{ color: "var(--primary)", fontWeight: 600, textTransform: "uppercase", letterSpacing: "2px" }}>Otkrijte Zlatnu Dolinu</p>
-          <h1>POŽEGA</h1>
+          <h1>Dobro došli!</h1>
           <p style={{ fontSize: "1.25rem", maxWidth: "600px", margin: "0 auto 2rem" }}>
-            Dobrodošli u srce Slavonije. Upoznajte bogatu povijest, vrhunska vina i netaknutu prirodu baroknog grada uz vodstvo Baruna Trenka.
+            Ovo je AI turistički informator grada Požege. Ovdje možete pronaći sve informacije o znamenitostima, gastro ponudi i događanjima.
           </p>
           <div style={{ display: "flex", gap: "1rem", justifyContent: "center" }}>
             <CustomLink href="/Attractions" title="Znamenitosti" className="btn-primary">Istraži znamenitosti</CustomLink>

@@ -12,7 +12,7 @@ interface Message {
 export default function ChatToolbar() {
   const { chatTrigger, clearTrigger } = usePortal();
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'assistant', content: 'Moj naklon! Ja sam Barun Franjo Trenk. Čime vam mogu poslužiti u mojoj Zlatnoj Dolini?' }
+    { role: 'assistant', content: 'Dobro došli! Ja sam vaš AI turistički informator. Kako vam mogu pomoći u istraživanju Požege?' }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -85,8 +85,8 @@ export default function ChatToolbar() {
             <Shield size={24} color="#f59e0b" fill="#f59e0b" fillOpacity={0.2} />
           </div>
           <div className="trenk-info">
-            <span className="trenk-name">BARUN TRENK</span>
-            <span className="trenk-status">AI VODIČ</span>
+            <span className="trenk-name">AI INFORMATOR</span>
+            <span className="trenk-status">TURISTIČKI VODIČ</span>
           </div>
         </div>
 
@@ -95,7 +95,7 @@ export default function ChatToolbar() {
             type="text" 
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="Pitajte Baruna o Požegi..."
+            placeholder="Pitajte nas nešto o Požegi..."
             className="toolbar-input"
             onFocus={() => setIsChatOpen(true)}
           />
