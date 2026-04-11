@@ -58,14 +58,19 @@ export default function ChatToolbar() {
 
   const handleDirectSubmit = async (text: string) => {
     const userMsg: Message = { role: 'user', content: text };
-    setMessages(prev => [...prev, userMsg]);
+    
+    // Check if it's the first real interaction (only intro message present)
+    const isFirstInteraction = messages.length === 1 && messages[0].role === 'assistant';
+    const newHistory = isFirstInteraction ? [userMsg] : [...messages, userMsg];
+    
+    setMessages(newHistory);
     setIsLoading(true);
 
     try {
       const response = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ messages: [...messages, userMsg] }),
+        body: JSON.stringify({ messages: newHistory }),
       });
       const data = await response.json();
       if (data.message) {
