@@ -21,12 +21,23 @@ export default function ChatToolbar() {
   const bottomRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (bottomRef.current) {
-      setTimeout(() => {
-        bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-      }, 100);
+    if (bottomRef.current && isChatOpen) {
+      const lastMsg = messages[messages.length - 1];
+      if (isLoading || (lastMsg && lastMsg.role === 'user')) {
+        setTimeout(() => {
+          bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+        }, 100);
+      }
     }
-  }, [messages, isChatOpen]);
+  }, [messages, isLoading]);
+
+  useEffect(() => {
+    if (isChatOpen && bottomRef.current) {
+      setTimeout(() => {
+        bottomRef.current?.scrollIntoView({ behavior: 'auto' });
+      }, 50);
+    }
+  }, [isChatOpen]);
 
   useEffect(() => {
     if (isChatOpen) {
