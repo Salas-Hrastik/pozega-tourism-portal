@@ -161,6 +161,13 @@ a {
   background: linear-gradient(to bottom, transparent, rgba(10, 12, 16, 0.8));
   position: relative;
   z-index: 1;
+  transition: opacity 0.4s ease, visibility 0.4s ease;
+}
+
+body.chat-active .hero {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .hero h1 {

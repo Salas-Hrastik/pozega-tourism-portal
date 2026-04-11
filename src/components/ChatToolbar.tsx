@@ -28,6 +28,14 @@ export default function ChatToolbar() {
     }
   }, [messages, isChatOpen]);
 
+  useEffect(() => {
+    if (isChatOpen) {
+      document.body.classList.add('chat-active');
+    } else {
+      document.body.classList.remove('chat-active');
+    }
+  }, [isChatOpen]);
+
   // Handle triggers from header buttons
   useEffect(() => {
     if (chatTrigger) {
