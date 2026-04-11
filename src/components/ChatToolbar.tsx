@@ -187,7 +187,7 @@ export default function ChatToolbar() {
         .typing { font-style: italic; color: #94a3b8; }
 
         .toolbar-main {
-          margin: 0 auto;
+          margin: 0 auto 1.5rem;
           width: 95%;
           max-width: 1100px;
           height: 70px;
@@ -195,9 +195,10 @@ export default function ChatToolbar() {
           align-items: center;
           padding: 0 1.5rem;
           gap: 1.5rem;
-          border-bottom-left-radius: 0;
-          border-bottom-right-radius: 0;
-          border-bottom: none;
+          background: rgba(15, 23, 42, 0.95);
+          border-radius: 20px;
+          box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+          border: 1px solid rgba(255,255,255,0.1);
         }
         .toolbar-left {
           display: flex;
