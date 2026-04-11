@@ -259,6 +259,36 @@ export default function ChatToolbar() {
           cursor: pointer;
           font-size: 0.8rem;
         }
+
+        @media (max-width: 768px) {
+          .toolbar-main {
+            padding: 0.5rem 0.75rem;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            height: auto;
+          }
+          .toolbar-left {
+            flex: 1;
+            min-width: auto;
+          }
+          .toolbar-input-area {
+            order: 3;
+            flex: 1 1 100%;
+            min-width: 100%;
+          }
+          .chat-history {
+            width: 95%;
+            height: 60vh;
+            max-height: 400px;
+            margin-bottom: 0.5rem;
+          }
+          .toolbar-send-btn span {
+            display: none;
+          }
+          .toolbar-send-btn {
+            padding: 0 1rem;
+          }
+        }
       `}</style>
     </div>
   );
