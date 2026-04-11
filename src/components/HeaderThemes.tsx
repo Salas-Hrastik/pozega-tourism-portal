@@ -33,6 +33,13 @@ export default function HeaderThemes() {
           gap: 1rem;
           flex: 1;
           justify-content: center;
+          overflow-x: auto;
+          -webkit-overflow-scrolling: touch;
+          scrollbar-width: none;
+          padding: 0.5rem 0;
+        }
+        .header-themes::-webkit-scrollbar {
+          display: none;
         }
         .theme-btn {
           display: flex;
@@ -48,6 +55,7 @@ export default function HeaderThemes() {
           cursor: pointer;
           transition: all 0.2s;
           white-space: nowrap;
+          flex-shrink: 0;
           box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
         }
         .theme-btn:hover {
@@ -56,6 +64,11 @@ export default function HeaderThemes() {
           color: white;
           transform: translateY(-3px);
           box-shadow: 0 0 20px var(--primary-glow);
+        }
+        @media (max-width: 768px) {
+          .header-themes {
+            justify-content: flex-start;
+          }
         }
       `}</style>
     </div>
