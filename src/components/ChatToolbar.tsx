@@ -18,14 +18,13 @@ export default function ChatToolbar() {
   const [isLoading, setIsLoading] = useState(false);
   const [isChatOpen, setIsChatOpen] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const bottomRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (scrollRef.current) {
+    if (bottomRef.current) {
       setTimeout(() => {
-        if (scrollRef.current) {
-          scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
-        }
-      }, 50);
+        bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+      }, 100);
     }
   }, [messages, isChatOpen]);
 
@@ -79,6 +78,7 @@ export default function ChatToolbar() {
               </div>
             ))}
             {isLoading && <div className="message-row assistant"><div className="message-bubble typing">Informator razmišlja...</div></div>}
+            <div ref={bottomRef} />
           </div>
         </div>
       )}
