@@ -74,7 +74,7 @@ export default function ChatToolbar() {
                 <div className="message-bubble">{msg.content}</div>
               </div>
             ))}
-            {isLoading && <div className="message-row assistant"><div className="message-bubble typing">Barun razmišlja...</div></div>}
+            {isLoading && <div className="message-row assistant"><div className="message-bubble typing">Informator razmišlja...</div></div>}
           </div>
         </div>
       )}
