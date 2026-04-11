@@ -12,7 +12,7 @@ interface Message {
 export default function ChatToolbar() {
   const { chatTrigger, clearTrigger } = usePortal();
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'assistant', content: 'Dobro došli! Ja sam vaš AI turistički informator. Kako vam mogu pomoći u istraživanju Požege?' }
+    { role: 'assistant', content: 'Ja sam AI turistički informator. Mogu pomoći u istraživanju Požege?' }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -174,8 +174,10 @@ export default function ChatToolbar() {
           padding: 0.75rem 1.25rem; 
           border-radius: 12px; 
           font-size: 0.95rem; 
-          background: rgba(255,255,255,0.05);
-          border: 1px solid var(--glass-border);
+          line-height: 1.5;
+          background: #ffffff;
+          color: #0f172a;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
         }
         .user .message-bubble { 
           background: var(--primary); 

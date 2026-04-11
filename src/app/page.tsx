@@ -8,7 +8,7 @@ export default async function Home() {
           <p style={{ color: "var(--primary)", fontWeight: 600, textTransform: "uppercase", letterSpacing: "2px" }}>Otkrijte Zlatnu Dolinu</p>
           <h1>Dobro došli!</h1>
           <p style={{ fontSize: "1.25rem", maxWidth: "600px", margin: "0 auto 2rem" }}>
-            Ovo je AI turistički informator!
+            Ja sam AI turistički informator. Mogu pomoći u istraživanju Požege?
           </p>
         </div>
       </section>
