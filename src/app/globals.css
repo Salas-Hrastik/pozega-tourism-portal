@@ -26,8 +26,23 @@ body {
   overflow-x: hidden;
 }
 
-/* Background animated glow */
+/* Background image with overlay */
 body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(rgba(10, 12, 16, 0.75), rgba(10, 12, 16, 0.9)), url('/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: -2;
+  pointer-events: none;
+}
+
+body::after {
   content: "";
   position: fixed;
   top: -10%;
