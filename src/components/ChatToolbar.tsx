@@ -119,6 +119,7 @@ export default function ChatToolbar() {
           left: 0;
           width: 100%;
           z-index: 1500;
+          isolation: isolate;
           transition: transform 0.3s ease;
         }
         .chat-history {

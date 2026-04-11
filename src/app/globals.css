@@ -159,6 +159,8 @@ a {
   padding: 10rem 0;
   text-align: center;
   background: linear-gradient(to bottom, transparent, rgba(10, 12, 16, 0.8));
+  position: relative;
+  z-index: 1;
 }
 
 .hero h1 {
