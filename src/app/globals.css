@@ -34,7 +34,7 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: linear-gradient(rgba(10, 12, 16, 0.75), rgba(10, 12, 16, 0.9)), url('/hero.jpg');
+  background-image: linear-gradient(rgba(10, 12, 16, 0.75), rgba(10, 12, 16, 0.9)), url('https://upload.wikimedia.org/wikipedia/commons/c/cf/Po%C5%BEega_%28Croatia%29_-_main_square.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
