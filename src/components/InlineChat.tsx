@@ -117,7 +117,7 @@ export default function InlineChat() {
       </div>
 
       {/* Chat box */}
-      <div className="chat-body glass-panel">
+      <div className={`chat-body ${messages.length > 0 || isLoading ? 'chat-active' : 'chat-welcome'}`}>
         {messages.length === 0 && !isLoading ? (
           <div className="welcome-screen">
             <div className="welcome-card">
@@ -236,9 +236,19 @@ export default function InlineChat() {
           display: flex;
           flex-direction: column;
           overflow: hidden;
-          background: rgba(8, 12, 22, 0.88);
-          backdrop-filter: blur(16px);
-          -webkit-backdrop-filter: blur(16px);
+          border-radius: 16px;
+          border: 1px solid rgba(255,255,255,0.1);
+        }
+        /* Welcome state — pozadinska slika vidljiva kroz tamni overlay */
+        .chat-body.chat-welcome {
+          background: rgba(8, 12, 22, 0.72);
+          backdrop-filter: blur(6px);
+          -webkit-backdrop-filter: blur(6px);
+        }
+        /* Active chat — bijela pozadina za čitljivost */
+        .chat-body.chat-active {
+          background: #ffffff;
+          border-color: #e2e8f0;
         }
 
         .welcome-screen {
@@ -329,9 +339,9 @@ export default function InlineChat() {
           word-break: break-word;
         }
         .assistant .msg-bubble {
-          background: rgba(255,255,255,0.10);
-          color: #f1f5f9;
-          border: 1px solid rgba(255,255,255,0.12);
+          background: #f8fafc;
+          color: #1e293b;
+          border: 1px solid #e2e8f0;
           border-left: 3px solid #f59e0b;
           border-radius: 2px 14px 14px 14px;
         }
@@ -339,7 +349,7 @@ export default function InlineChat() {
           background: var(--primary);
           color: white;
           border-radius: 14px 14px 2px 14px;
-          box-shadow: 0 4px 12px rgba(59,130,246,0.3);
+          box-shadow: 0 4px 12px rgba(59,130,246,0.25);
         }
 
         /* Typing indicator */
@@ -370,19 +380,19 @@ export default function InlineChat() {
           display: flex;
           gap: 10px;
           flex-shrink: 0;
-          background: rgba(8, 12, 22, 0.92);
+          background: #ffffff;
           padding: 12px 16px;
           border-radius: 0 0 16px 16px;
-          border-top: 1px solid rgba(255,255,255,0.08);
+          border-top: 1px solid #e2e8f0;
           margin-top: -1px;
         }
         .mic-btn {
           width: 48px;
           height: 48px;
           border-radius: 12px;
-          border: 1px solid var(--glass-border);
-          background: rgba(255,255,255,0.05);
-          color: #94a3b8;
+          border: 1px solid #e2e8f0;
+          background: #f8fafc;
+          color: #64748b;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -390,7 +400,7 @@ export default function InlineChat() {
           transition: all 0.2s;
           flex-shrink: 0;
         }
-        .mic-btn:hover { background: rgba(255,255,255,0.1); color: white; }
+        .mic-btn:hover { background: #f1f5f9; color: #334155; }
         .mic-btn.listening {
           background: rgba(239,68,68,0.2);
           border-color: rgba(239,68,68,0.5);
@@ -405,16 +415,16 @@ export default function InlineChat() {
           flex: 1;
           height: 48px;
           padding: 0 1.25rem;
-          background: rgba(255,255,255,0.06);
-          border: 1px solid var(--glass-border);
+          background: #f8fafc;
+          border: 1px solid #e2e8f0;
           border-radius: 12px;
-          color: white;
+          color: #1e293b;
           font-size: 0.95rem;
           outline: none;
           transition: border-color 0.2s;
         }
-        .chat-text-input::placeholder { color: #475569; }
-        .chat-text-input:focus { border-color: rgba(245,158,11,0.6); }
+        .chat-text-input::placeholder { color: #94a3b8; }
+        .chat-text-input:focus { border-color: #f59e0b; }
         .chat-text-input:disabled { opacity: 0.6; }
         .send-btn {
           height: 48px;
