@@ -2,10 +2,6 @@ import { OpenAI } from "openai";
 import { searchContext } from "@/lib/rag";
 import { NextResponse } from "next/server";
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
-
 const SYSTEM_PROMPT = `
 Ti si AI turistički informator grada Požege. Tvoj cilj je pružiti točne, korisne i ljubazne informacije posjetiteljima o Požegi i Zlatnoj dolini.
 Odgovaraj na hrvatskom jeziku. Budi jasan i informativan.
@@ -17,6 +13,7 @@ Ako u kontekstu nema traženih informacija, odgovori na temelju svog općeg znan
 `;
 
 export async function POST(req: Request) {
+  const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
   try {
     const { messages } = await req.json();
     if (!messages || messages.length === 0) {

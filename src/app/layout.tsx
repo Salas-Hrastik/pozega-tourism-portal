@@ -3,7 +3,6 @@ import "./globals.css";
 import Link from "next/link";
 import { PortalProvider } from "@/context/PortalContext";
 import ContentModal from "@/components/ContentModal";
-import ChatToolbar from "@/components/ChatToolbar";
 import HeaderThemes from "@/components/HeaderThemes";
 
 export const metadata: Metadata = {
@@ -38,12 +37,11 @@ export default function RootLayout({
             </div>
           </nav>
 
-          <main style={{ paddingBottom: '100px' }}>
+          <main className="main-chat-area">
             {children}
           </main>
 
           <ContentModal />
-          <ChatToolbar />
         </PortalProvider>
       </body>
     </html>
