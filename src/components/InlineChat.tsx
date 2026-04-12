@@ -236,7 +236,9 @@ export default function InlineChat() {
           display: flex;
           flex-direction: column;
           overflow: hidden;
-          background: rgba(255,255,255,0.04);
+          background: rgba(8, 12, 22, 0.88);
+          backdrop-filter: blur(16px);
+          -webkit-backdrop-filter: blur(16px);
         }
 
         .welcome-screen {
@@ -266,13 +268,13 @@ export default function InlineChat() {
         }
         .welcome-sub {
           font-size: 1rem;
-          color: #94a3b8;
+          color: #cbd5e1;
           line-height: 1.7;
           margin-bottom: 1.25rem;
         }
         .welcome-hint {
           font-size: 0.8rem;
-          color: #64748b;
+          color: #94a3b8;
           font-style: italic;
         }
 
@@ -327,9 +329,9 @@ export default function InlineChat() {
           word-break: break-word;
         }
         .assistant .msg-bubble {
-          background: rgba(255,255,255,0.07);
-          color: #e2e8f0;
-          border: 1px solid rgba(255,255,255,0.08);
+          background: rgba(255,255,255,0.10);
+          color: #f1f5f9;
+          border: 1px solid rgba(255,255,255,0.12);
           border-left: 3px solid #f59e0b;
           border-radius: 2px 14px 14px 14px;
         }
@@ -368,6 +370,11 @@ export default function InlineChat() {
           display: flex;
           gap: 10px;
           flex-shrink: 0;
+          background: rgba(8, 12, 22, 0.92);
+          padding: 12px 16px;
+          border-radius: 0 0 16px 16px;
+          border-top: 1px solid rgba(255,255,255,0.08);
+          margin-top: -1px;
         }
         .mic-btn {
           width: 48px;

@@ -3,7 +3,6 @@ import "./globals.css";
 import Link from "next/link";
 import { PortalProvider } from "@/context/PortalContext";
 import ContentModal from "@/components/ContentModal";
-import HeaderThemes from "@/components/HeaderThemes";
 
 export const metadata: Metadata = {
   title: "Požega - Zlatna Dolina | Službeni Vodič",
@@ -30,11 +29,7 @@ export default function RootLayout({
               </Link>
             </div>
             
-            <HeaderThemes />
-
-            <div className="nav-right">
-              {/* Removed Brda & Doline */}
-            </div>
+            <div className="nav-right"></div>
           </nav>
 
           <main className="main-chat-area">
